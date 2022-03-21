@@ -23,4 +23,8 @@ function disemvowel(param) {
   return joinParam;
 }
 
-console.log(disemvowel("What are you, a communist?"));
+console.log(disemvowel("Hello my name is Jaden"));
+
+// function disemvowel(str) {
+//     return str.replace(/[aeiou]/gi, '');
+//   }
